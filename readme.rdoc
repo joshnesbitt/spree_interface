@@ -1,0 +1,6 @@
+== Spree Interface
+
+This is a shameless ripoff of the Spree admin interface, handy for prototyping generic admin interfaces.
+
+All credit goes to the original authors.
+http://spreecommerce.com
